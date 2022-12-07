@@ -1,0 +1,11 @@
+{
+  "parkour.options.title": "Parkour Options",
+  "parkour.options.fullBright": "FullBright",
+  "parkour.options.shiftFix": "EarthquakeFix",
+  "parkour.options.toggleSprint": "ToggleSprint",
+  "parkour.messages.toggleSprint.enabled": "Sprint Enabled",
+  "parkour.messages.toggleSprint.disabled": "Sprint Disabled",
+  "parkour.options.noHurtBobbing": "NoHurtBobbing",
+  "parkour.options.potionHud": "PotionHUD",
+  "parkour.options.noScreenBobbing": "NoScreenBobbing"
+}

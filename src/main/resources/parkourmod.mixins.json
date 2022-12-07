@@ -6,9 +6,17 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "CameraMixin",
+    "ClientPlayerInteractionManagerAccessor",
+    "ClientPlayNetworkHandlerMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "LivingEntityMixin",
+    "OptionsScreenMixin",
+    "RenderSystemMixin",
+    "SliderWidgetMixin"
   ],
   "injectors": {
-    "defaultRequire": 1
+    "defaultRequire": 0
   }
 }
