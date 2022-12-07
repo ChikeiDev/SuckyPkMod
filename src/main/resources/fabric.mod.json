@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "parkourmod",
+  "version": "${version}",
+
+  "name": "idctbh's Sucky PK Mod",
+  "description": "This is my attempt in making 1.19 parkour livable",
+  "authors": [
+    "idctbh"
+  ],
+  "contact": {
+    "homepage": "null",
+    "sources": "null"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "idctbh.sucky.parkourmod.ParkourMod"
+    ],
+    "client": [
+      "idctbh.sucky.parkourmod.Client"
+    ]
+  },
+  "mixins": [
+    "parkourmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
