@@ -1,4 +1,4 @@
-# SuckyPkMod
+# idctbh's Sucky Parkour Mod
 ## An attempt in making 1.19 parkour livable
 
 ![N](https://i.imgur.com/JAKQ0GR.png)
